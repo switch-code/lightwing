@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Keyboard_parts")(type "KiCad")(uri "/home/switch/keyboard_kicad_library/kicad-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/switch/keyboard_kicad_library/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "DjinnFootprints")(type "KiCad")(uri "/home/switch/reference_keyboards/djinn/Rev2a/DjinnFootprints")(options "")(descr ""))
+  (lib (name "reversible-kicad-footprints")(type "KiCad")(uri "/home/switch/reference_keyboards/djinn/Rev2a/reversible-kicad/reversible-kicad-footprints")(options "")(descr ""))
+  (lib (name "OLED_SSD")(type "KiCad")(uri "/home/switch/keyboard_kicad_library/KiCad-SSD1306_OLED-0.91-128x32")(options "")(descr ""))
+)
